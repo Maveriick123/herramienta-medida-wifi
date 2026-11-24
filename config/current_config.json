@@ -1,0 +1,21 @@
+{
+    "project_name": "mediciones",
+    "device_metadata": {
+        "hostname": "debian",
+        "os": "Linux 6.12.12+bpo-amd64",
+        "architecture": "x86_64",
+        "wireless_interface": "wlp0s20f3"
+    },
+    "building": "FIC",
+    "floor": "2",
+    "room": "Aula 2.5",
+    "corridor": "Pasillo central",
+    "point_id": "Mesa_01_05",
+    "coordinate_system": "Pixeles(Plano)",
+    "coordinates": {
+        "x": 784,
+        "y": 241
+    },
+    "orientation": "Frente",
+    "m_per_px": 0.09433962264150944
+}
